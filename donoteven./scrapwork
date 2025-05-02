@@ -1,0 +1,72 @@
+ <div class="dnteven">
+            <button class="dnteven"><a href="/"><img src="./viewprofileimage.d2l-removebg-preview copy.png" alt="dnteven"  style="width:100px;height:80px" class="center"></a></button>
+        </div>
+        <div class="ighub">
+            <button class="ighub"><a href="/"><img src="./ig.png" alt="ig"  style="width:100px;height:80px" class="center"></a></button>
+            <button class="ighub"><a href="/"><img src="./github.png" alt="github"  style="width:100px;height:80px" class="center"></a></button>
+        </div>
+        <div class="linktwitch">
+            <button class="linktwitch"><a href="/"><img src="./linkedin.png" alt="linkedin"  style="width:100px;height:80px" class="center"></a></button>
+            <button class="linktwitch"><a href="/"><img src="./twitch.png" alt="twitch"  style="width:100px;height:80px" class="center"></a></button>
+        </div>
+
+
+
+
+
+
+
+        dnteven {
+            display: block;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
+            background-color: #00ccff;
+        }
+        
+        .ighub {
+            background-color: #00ccff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 60%;
+            
+        }
+        
+        .linktwitch {
+            background-color: #00ccff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 60%;
+        }
+
+
+
+
+
+
+
+
+
+            <filler>
+                <div class="fillerz">
+                    <h1>HIDDEN MESSAGE. THIS IS ANDRE "GUNZ" ARABOME. AKA donoteven. I WILL MAKE IT TO THE BIG LEAGUES. IN JESUS NAME, AMEN.</h1>
+                </div>
+            </filler>
+
+
+
+
+
+
+
+            .fillerz {
+                background-color: #00ccff;
+                color: #00ccff;
+            }
+
+
+
+
+            li { cursor: pointer; }
